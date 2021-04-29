@@ -1,0 +1,135 @@
+body {
+    text-align: center;
+
+}
+
+#image {
+    width: 300px;
+    height: 250px;
+    border: solid;
+    padding: 5px;
+    border-radius: 5x;
+}
+
+#welcome {
+    height: 600px;
+    background: linear-gradient(red, orange);
+    padding: 50px;
+    z-index: 9;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: sans-serif;
+    color: darkslateblue;
+
+}
+
+#info {
+    margin-top: 50px;
+    padding: 50px;
+    background: linear-gradient(teal, pink);
+}
+
+p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 17px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+#name {
+    font-size: 65px;
+    font-family: 'Teko', sans-serif;
+
+}
+
+.line {
+    height: 5px;
+    width: 70px;
+    background-color: black;
+    margin: 5px auto;
+}
+
+#menu {
+    background-color: #FEE12B;
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    cursor: pointer;
+    font-family: 'Yatra One', cursive;
+    font-size: 25px;
+    z-index: 10;
+}
+
+.links {
+    float: left;
+    padding: 10px;
+
+}
+
+.links:hover {
+    color: #0E4C92;
+
+}
+
+.links {
+    float: left;
+    padding: 10px;
+
+}
+
+.links:hover {
+    color: #0E4C92;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+#article {
+    font-size: 25px;
+    color:deepskyblue;
+
+}
+
+#article:hover {
+    color:darkred;
+}
+#videos{
+      margin-top: 50px;
+    padding: 50px;
+    background: linear-gradient(blue,green);
+}
+
+#work{
+     margin-top: 50px;
+    padding: 50px;
+    background: linear-gradient(yellow,darkorange);
+}
+#writings{
+    margin-top: 50px;
+    padding: 50px;
+    background: linear-gradient(purple, pink);
+}
+#header{
+    color: darkorange;
+}
+
+#contacts iframe{
+  width:100%;
+}
+#email h3{
+  display:inline;
+
+}
+#email a{
+  color:white;
+}
+#contacts{
+  background:linear-gradient(orange,pink);
+}
